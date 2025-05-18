@@ -1,0 +1,50 @@
+::-webkit-scrollbar { display: none; }
+
+*{
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page {
+  width: 100vw;
+  height: 100vh; 
+}
+
+.bar{
+  background-color: rgba(255, 255, 255, 0.684);
+
+  border: 1px solid;
+  border-radius: 8px;
+  width: 80vw;
+  padding: 16px 16px;
+  box-shadow: 6px 6px 16px black;
+
+  display: flex;
+  justify-content: space-around;
+  gap: 16px;
+  overflow-x: scroll;
+
+  position: fixed;
+  bottom: 48px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button{
+  min-width: fit-content;
+  width: 60px;
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 2px 2px 8px black;
+}
+
+button:hover {
+  scale: 1.02;
+}
