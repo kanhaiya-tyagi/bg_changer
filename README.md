@@ -61,6 +61,6 @@ Then, open your browser and visit:
 
 Made with ❤️ by **Kanhaiya Tyagi**  
 Feel free to connect:  
-[LinkedIn](www.linkedin.com/in/kanhaiya-tyagi) <!-- Replace with your actual LinkedIn profile -->
+[LinkedIn](https://www.linkedin.com/in/kanhaiya-tyagi/) <!-- Replace with your actual LinkedIn profile -->
 
 ---
