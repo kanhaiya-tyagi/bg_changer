@@ -21,32 +21,25 @@ This is a simple React app built as part of my learning journey. The app allows 
 
 ---
 
-## 📸 Screenshot
-
-*Add a screenshot of your app below:*  
-![App Screenshot](screenshot.png)
-
----
-
 ## 📂 How to Run Locally
 
 
-# 1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 ```
 
-# 2. Navigate to the project directory
+### 2. Navigate to the project directory
 ```bash
 cd your-repo-name
 ```
 
-# 3. Install dependencies
+### 3. Install dependencies
 ```bash
 npm install
 ```
 
-# 4. Start the development server
+### 4. Start the development server
 ```bash
 npm start
 ```
@@ -64,18 +57,10 @@ Then, open your browser and visit:
 
 ---
 
-## 📌 Future Improvements
-
-- Add more color themes  
-- Include a random color generator  
-- Use `useEffect` for saving user preferences  
-
----
-
 ## 📬 Contact
 
 Made with ❤️ by **Kanhaiya Tyagi**  
 Feel free to connect:  
-[LinkedIn](https://www.linkedin.com/) <!-- Replace with your actual LinkedIn profile -->
+[LinkedIn](www.linkedin.com/in/kanhaiya-tyagi) <!-- Replace with your actual LinkedIn profile -->
 
 ---
